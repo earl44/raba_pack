@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape2.mersedes.1632.far
+{
+	name: "marker lights"
+	price: 720
+	unlock: 12
+	icon: "stock"
+	exterior_model: "/vehicle/truck/upgrade/far/far_03.pmd"
+}
+}

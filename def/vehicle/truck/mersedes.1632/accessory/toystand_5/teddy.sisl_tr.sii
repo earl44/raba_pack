@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : teddyc.sisl.mersdes.1632.toystand_5
+{
+	name: "Teddy Bear"
+	price: 180
+	unlock: 0
+	look: default
+	icon: "teddy.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/teddy.sisl_tr.pmd"
+}
+}

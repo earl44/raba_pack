@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape2.mersedes.1632.sp
+{
+	name: "Sunshield with lights"
+	price: 1300
+	unlock: 15
+	icon: "sunshield2"
+	exterior_model: "/vehicle/truck/upgrade/sp/sp_01.pmd"
+}
+}

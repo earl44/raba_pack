@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : lsluke.sisl.mersdes.1632.toystand_4
+{
+	name: "Lightsaber - Luke Skywalker"
+	icon: "ls_luke.sisl_sw"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/ls_luke.sisl_sw.pmd"
+	look: default
+	price: 90
+	unlock: 0
+}
+}

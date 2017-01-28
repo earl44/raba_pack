@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : ng1632.rdisc
+{
+	name: "Mercedes NG - standard"
+	price: 1600
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheelr/mersedes_1632/r_disc_s.pmd"
+	icon: "r_wheel_steel"
+	
+}
+}

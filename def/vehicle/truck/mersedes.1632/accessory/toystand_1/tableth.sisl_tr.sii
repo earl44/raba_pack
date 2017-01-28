@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : tabletver.sisl.mersdes.1632.toystand_1
+{
+	name: "Tablet Vertical (Customizable)"
+	icon: "tabletver.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/tablet.sisl_tr.pmd"
+	variant: vertical
+	price: 599
+	unlock: 0
+}
+}

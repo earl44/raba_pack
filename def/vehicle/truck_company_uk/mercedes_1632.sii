@@ -1,0 +1,178 @@
+SiiNunit
+{
+vehicle: .company.truck
+{
+ fuel_relative: &3f000000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+
+ accessories[]: mercedes1632.eu.data
+ accessories[]: mercedes1632.eu.chassis
+ accessories[]: mercedes1632.eu.cabin
+ accessories[]: mercedes1632.eu.interior
+ accessories[]: mercedes1632.eu.engine
+ accessories[]: mercedes1632.eu.transmission
+ accessories[]: mercedes1632.eu.soundint
+ accessories[]: mercedes1632.eu.soundext
+ accessories[]: mercedes1632.eu.head_light
+ accessories[]: mercedes1632.eu.fdisc
+ accessories[]: mercedes1632.eu.fhub
+ accessories[]: mercedes1632.eu.fnuts
+ accessories[]: mercedes1632.eu.fcover
+ accessories[]: mercedes1632.eu.f_tire
+ accessories[]: mercedes1632.eu.rdisc
+ accessories[]: mercedes1632.eu.rhub
+ accessories[]: mercedes1632.eu.rnuts
+ accessories[]: mercedes1632.eu.r_tire
+ accessories[]: mercedes1632.eu.paint_job
+ accessories[]: mercedes1632.eu.s_mirror
+ accessories[]: mercedes1632.eu.rdisc2
+ accessories[]: mercedes1632.eu.rhub2
+ accessories[]: mercedes1632.eu.rnuts2
+ accessories[]: mercedes1632.eu.r_tire2
+ odometer: 0
+ odometer_float_part: &38f1adcc
+}
+
+vehicle_accessory : mercedes1632.eu.data {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/data.sii"
+}
+
+vehicle_accessory : mercedes1632.eu.chassis {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/chassis/4x2.sii"
+}
+
+vehicle_accessory : mercedes1632.eu.cabin {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/cabin/l2h3.sii"
+}
+
+vehicle_accessory : mercedes1632.eu.interior {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/interior/standard.sii"
+}
+
+vehicle_accessory : mercedes1632.eu.engine {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/engine/om_403.sii"
+}
+
+vehicle_accessory : mercedes1632.eu.transmission {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/transmission/16_speed.sii"
+}
+
+vehicle_sound_accessory : mercedes1632.eu.soundint {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/sound/interior_om403.sii"
+}
+
+vehicle_sound_accessory : mercedes1632.eu.soundext {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/sound/exterior_om403.sii"
+}
+
+vehicle_accessory : mercedes1632.eu.head_light {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/head_light/standard.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.fdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_disc/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.fhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_hub/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.fnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_nuts/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.fcover {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_cover/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.f_tire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_tire/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.rdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_disc/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.rhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_hub/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.rnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.r_tire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_tire/ng1632.sii"
+}
+
+vehicle_paint_job_accessory : mercedes1632.eu.paint_job {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ base_color: (&3b2a64c3, &3c63bcd3, &3d96f007)
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/paint_job/color2.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.rdisc2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_disc/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.rhub2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_hub/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.rnuts2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/ng1632.sii"
+}
+
+vehicle_wheel_accessory : mercedes1632.eu.r_tire2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_tire/ng1632.sii"
+}
+
+vehicle_addon_accessory : mersedes.1632.eu.mirror {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/accessory/mirror/shape1.sii"
+}
+}

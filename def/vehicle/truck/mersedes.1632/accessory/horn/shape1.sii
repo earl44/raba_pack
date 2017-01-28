@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.mercedes.1632.horn
+{
+	name: "Duo Tone"
+	price: 540
+	unlock: 0
+	icon: "stock"
+	exterior_model: "/vehicle/truck/upgrade/horn/1632/horn.pmd"
+}
+}

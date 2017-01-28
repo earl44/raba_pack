@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cup_xpo.mersedes.1632.toystand_3
+{
+	name: "XPO Logistics Coffee Mug"
+	price: 15
+	unlock: 0
+	icon: "cup_xpo.dlc_toys"
+   
+  interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cup_xpo.dlc_toys.pmd"
+}
+}

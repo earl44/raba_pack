@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_engine_data : om403x.mersedes.1632.engine
+{
+	name: "V10 OM 403X Italien Version 17,4L"
+	price: 8100
+	unlock: 10
+	info[]: "352 @@hp@@ (256@@kw@@)"
+	info[]: "1@@dg@@110 @@nm@@"
+	info[]: "1@@dg@@600 @@rpm@@"
+	icon: "engine_01"
+	torque: 1110
+	volume:	13.95
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/interior_om404t.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/exterior_om404t.sii"
+}
+}

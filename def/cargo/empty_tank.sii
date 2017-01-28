@@ -1,0 +1,17 @@
+
+
+cargo_data: cargo.emptytank
+{
+	name: "Sprzet AGD"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 6000.0
+
+	fragility: 0.3
+	heavy: true
+	
+	price_coef: 1.448
+
+}
+

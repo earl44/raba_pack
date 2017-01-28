@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.mondeos	
+{
+	name: "Meble kuchene"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 9000.0
+	mass[]: 9000.0
+	mass[]: 9000.0
+
+	fragility: 0.95
+	
+	price_coef: 1.555
+}
+

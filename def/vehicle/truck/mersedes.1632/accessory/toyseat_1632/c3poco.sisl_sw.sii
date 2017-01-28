@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : c3poco.mersedes.1632.toyseat_1632
+{
+	name: "C3P0"
+	price: 1500
+    unlock: 0
+	icon: "c3poco.sisl_sw"
+	             
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/c3poco.sisl_sw.pmd"
+}
+}

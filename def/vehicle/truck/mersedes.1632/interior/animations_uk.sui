@@ -1,0 +1,41 @@
+	wiper_anim: "/vehicle/truck/mersedes_1632/interior/wipers.pma"
+	wiper_delay[]: 4
+	wiper_delay[]: 2
+	wheel_anim: "/vehicle/truck/mersedes_1632/interior/wheel.pma"
+
+	blinker_delay: 0.333
+	blinker_anim: "/vehicle/truck/mersedes_1632/interior/blinkhebel.pma"
+	lights_anim: "/vehicle/truck/mersedes_1632/interior/abblendschalter.pma"
+	high_beam_anim: "/vehicle/truck/mersedes_1632/interior/fernlichtschalter.pma"
+	wiper_stick_anim: "/vehicle/truck/mersedes_1632/interior/wischerhebel.pma"
+
+
+	oil_psi_anim: "/vehicle/truck/mersedes_1632/interior/oil.pma"
+	oil_psi_anim_max: 280
+
+	water_temp_anim: "/vehicle/truck/mersedes_1632/interior/water.pma"
+	water_temp_anim_min: 60
+	water_temp_anim_max: 160
+	
+	tachometer_anim: "/vehicle/truck/mersedes_1632/interior/rpm.pma"
+	tachometer_anim_max: 3500
+	
+	speedometer_anim: "/vehicle/truck/mersedes_1632/interior/speed.pma"
+	speedometer_anim_min: 0
+	speedometer_anim_max: 125
+
+	air_psi_anim: "/vehicle/truck/mersedes_1632/interior/air.pma"
+	air_psi_anim_max: 145
+	
+	fuel_anim: "/vehicle/truck/mersedes_1632/interior/fuel.pma"
+      fuel_anim_max: 2.5
+
+
+
+	button_left_blinker: "/vehicle/truck/mersedes_1632/interior/left_sign.pma"
+	button_right_blinker: "/vehicle/truck/mersedes_1632/interior/right_sign.pma"
+	button_lights: "/vehicle/truck/mersedes_1632/interior/abblend_sign.pma"
+	button_high_beam_lights: "/vehicle/truck/mersedes_1632/interior/fernlicht_sign.pma"
+	button_battery_warning: "/vehicle/truck/mersedes_1632/interior/battery_sign.pma"
+	button_low_fuel: "/vehicle/truck/mersedes_1632/interior/fuel_sign.pma"
+	button_parking_brake: "/vehicle/truck/mersedes_1632/interior/parking_sign.pma"

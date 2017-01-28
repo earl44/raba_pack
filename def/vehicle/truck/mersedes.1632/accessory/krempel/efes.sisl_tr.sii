@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : efes.sisl.mersedes.1632.krempel
+{
+	name: "Efes Pilsen"
+	icon: "efes.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/efes.sisl_tr.pmd"
+	look: default
+	price: 10
+	unlock: 0
+}
+}

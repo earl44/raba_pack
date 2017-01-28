@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.mersedes.1632.zderzak
+{
+	name: "Bumper black"
+	price: 1050
+	unlock: 0
+	icon: "bumper_black"
+	exterior_model: "/vehicle/truck/upgrade/zderzak/mersedes_1632/zderzak_01.pmd"
+}
+}

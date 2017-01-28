@@ -1,0 +1,17 @@
+
+
+cargo_data: cargo.hmetal
+{
+	name: "Kostka brukowa (ST5)"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 25000.0
+
+	fragility: 0.5
+	
+	price_coef: 2.185
+
+	adr_class: 6
+}
+

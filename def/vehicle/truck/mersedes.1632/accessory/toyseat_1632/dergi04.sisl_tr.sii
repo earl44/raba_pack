@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : dergi04sisl.mersedes.1632.toyseat_1632
+{
+	name: "Magazines - Atlas"
+	price: 18
+	unlock: 0
+	icon: "dergi04.sisl_tr"
+   
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/dergiler04.sisl_tr.pmd"
+}
+}

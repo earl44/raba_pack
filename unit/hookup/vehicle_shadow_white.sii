@@ -1,0 +1,18 @@
+SiiNunit
+{
+flare_vehicle: flare.vehicle.shadow.white
+{
+	dir_type: wide
+	light_type: beacon
+	
+	diffuse_color: (1.0, 1.0, 1.0)
+	range: 1.5
+	inner_angle: 30.0
+	outer_angle: 140.0
+	type: spot
+	forward_distance: false
+
+	model: "/model/flare/vehicle_shadow_white.pmd" 
+
+}
+}

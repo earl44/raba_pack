@@ -1,0 +1,28 @@
+SiiNunit
+{
+accessory_transmission_data : 8_speed.mersedes.1632.transmission
+{
+	
+name: "@@ZF-5 S-110 GP 8spd +crowl@@"
+	
+price: 1000
+	
+unlock: 0
+	
+icon: "transmission_generic"
+#original data from Mercedes Benz for ZF-5 S-110 GP
+differential_ratio: 5.3
+	
+ratios_reverse[0]: -16.2
+	
+ratios_forward[0]: 13.9
+ratios_forward[1]: 8.68
+ratios_forward[2]: 6.37
+ratios_forward[3]: 4.65
+ratios_forward[4]: 3.43
+ratios_forward[5]: 2.53
+ratios_forward[6]: 1.86
+ratios_forward[7]: 1.36
+ratios_forward[8]: 1.00
+}
+}

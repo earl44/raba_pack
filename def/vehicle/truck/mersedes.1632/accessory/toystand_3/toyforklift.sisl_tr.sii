@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : toyforklift.sisl.mersdes.1632.toystand_3
+{
+	name: "Forklift Toy"
+	price: 200
+	unlock: 0
+	icon: "forklift.sisl_tr"
+  look: default
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/forklift.sisl_tr.pmd"
+}
+}

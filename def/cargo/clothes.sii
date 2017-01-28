@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.clothes
+{
+	name: "@@cn_clothes@@"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 24000.0
+	mass[]: 24000.0
+	mass[]: 24000.0
+
+	fragility: 0.3
+	
+	price_coef: 1.290
+}
+

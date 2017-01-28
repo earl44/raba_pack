@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : tabletdash.sisl.mersdes.1632.toystand_4
+{
+	name: "Tablet Truck Info"
+	icon: "tabletdash.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/tablet.sisl_tr.pmd"
+	variant: dash
+	price: 599
+	unlock: 0
+}
+}

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : changemone.sisl.mersdes.1632.toystand_1
+{
+name: "Coins and Notes"
+	icon: "euro.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/euro.sisl_tr.pmd"
+	price: 45
+	unlock: 0
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : lotrbooks.sisl.mersdes.1632.toystand_6
+{
+	name: "Books - The Lord of the Rings"
+	icon: "lotrbooks.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/lotrbooks.sisl_tr.pmd"
+	look: default
+	price: 60
+	unlock: 0
+}
+}

@@ -1,0 +1,17 @@
+
+
+cargo_data: cargo.overweight
+{
+	name: "Karma dla kotow"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 11000.0
+
+	fragility: 0.4
+	heavy:true
+	
+	price_coef: 1.446
+
+}
+

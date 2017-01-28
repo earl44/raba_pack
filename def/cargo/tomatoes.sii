@@ -1,0 +1,15 @@
+
+
+cargo_data: cargo.tomatoes
+{
+	name: "@@cn_tomatoes@@"
+	
+	vehicles[]: trailer.krone.profiliner
+	mass[]: 18000.0
+	mass[]: 18000.0
+
+	fragility: 0.4
+	
+	price_coef: 1.350
+}
+

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : galaxi.mersedes.1632.toystand_3
+{
+	name: "Galaxy S4"
+	price: 10
+	unlock: 0
+	icon: "galaxy_s4"
+   
+  interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/galaxy.dlc_toys.pmd"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : kullukrk.sisl.mersdes.1632.toystand_6
+{
+	name: "Ashtray"
+	icon: "kullukrkrmz.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/kullukr.sisl_tr.pmd"
+	look: kirmizi
+	price: 20
+	unlock: 0
+}
+}

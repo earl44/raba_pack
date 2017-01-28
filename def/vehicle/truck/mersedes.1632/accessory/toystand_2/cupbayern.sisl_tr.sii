@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupbayern.sisl.mersdes.1632.toystand_2
+{
+	name: "Mug - Bayern München"
+	icon: "cupbayern.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: bayern
+	price: 16
+	unlock: 0
+}
+}

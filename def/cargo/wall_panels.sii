@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.wallpanels
+{
+	name: "reczniki papierowe"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 21000.0
+
+	fragility: 0.2
+	
+	price_coef: 1.336
+
+}
+

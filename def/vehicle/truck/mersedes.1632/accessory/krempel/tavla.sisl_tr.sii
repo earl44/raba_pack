@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : tavla.sisl.mersedes.1632.krempel
+{
+	name: "Backgammon Board"
+	icon: "tavla.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/tavla.sisl_tr.pmd"
+	price: 90
+	unlock: 0
+}
+}

@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_addon_int_data : stftntn.sisl.mersdes.1632.toystand_3
+{
+	name: "Tauntaun Stuffed Toy"
+	price: 160
+	icon: "stf_tauntaun.sisl_sw"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/stf_tauntaun.sisl_sw.pmd"
+}
+}

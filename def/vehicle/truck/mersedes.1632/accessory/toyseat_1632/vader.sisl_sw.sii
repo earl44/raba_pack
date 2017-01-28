@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : vader.mersedes.1632.toyseat_1632
+{
+	name: "Lord Vader"
+	price: 1500
+    unlock: 0
+	icon: "vader.sisl_sw"
+            	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/vader.sisl_sw.pmd"
+}
+}

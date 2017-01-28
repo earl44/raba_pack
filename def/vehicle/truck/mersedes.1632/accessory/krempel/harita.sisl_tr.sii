@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : harita.sisl.mersedes.1632.krempel
+{
+	name: "Map"
+	price: 50
+	unlock: 0
+	icon: "harita.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/harita.sisl_tr.pmd"
+}
+}

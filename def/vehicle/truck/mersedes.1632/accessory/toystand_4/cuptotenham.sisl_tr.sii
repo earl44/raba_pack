@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cuptotenham.sisl.mersdes.1632.toystand_4
+{
+	name: "Mug - Tottenham Hotspur"
+	icon: "cuptotenham.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: totenham
+	price: 16
+	unlock: 0
+}
+}

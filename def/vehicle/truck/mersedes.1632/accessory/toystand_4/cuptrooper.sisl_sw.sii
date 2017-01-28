@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : cuptrooper.sisl.mersdes.1632.toystand_4
+{
+	name: "Mug - Storm Trooper"
+	icon: "cup-trooper.sisl_sw"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_sw.pmd"
+	look: trooper
+	price: 20
+	unlock: 0
+}
+}

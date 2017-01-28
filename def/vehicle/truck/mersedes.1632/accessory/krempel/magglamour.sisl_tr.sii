@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : magglamour.sisl.mersedes.1632.krempel
+{
+	name: "Magazines - Glamour"
+	price: 28
+	unlock: 0
+	icon: "mag-glamour.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/dergiler.sisl_tr.pmd"
+	look: glamour
+}
+}

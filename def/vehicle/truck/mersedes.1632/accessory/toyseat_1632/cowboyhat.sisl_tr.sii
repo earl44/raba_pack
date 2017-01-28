@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cowboyhat.mersedes.1632.toyseat_1632
+{
+	name: "Ten-gallon Hat"
+	price: 50
+	unlock: 0
+	icon: "cowboyhat.sisl_tr"
+   
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cowboyhat.sisl_tr.pmd"
+}
+}

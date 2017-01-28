@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : toydafxf.sisl.mersdes.1632.toystand_4
+{
+	name: "DAF XF 105 Toy"
+	price: 250
+	unlock: 0
+	icon: "toydafxf.sisl_tr"
+  look: default
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/toydafxf.sisl_tr.pmd"
+}
+}

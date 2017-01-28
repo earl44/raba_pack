@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : cigtekel2k.sisl.mersdes.1632.toystand_5
+{
+	name: "Cigarettes - Tekel 2000"
+	icon: "cig-tekel2000.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cigs.sisl_tr.pmd"
+	look: tekel
+	price: 9
+	unlock: 0
+}
+}

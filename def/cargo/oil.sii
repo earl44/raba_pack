@@ -1,0 +1,17 @@
+
+
+cargo_data: cargo.oil
+{
+	name: "Czesci do kosiarek (ST3)"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 19000.0
+
+	fragility: 0.4
+	
+	price_coef: 1.375
+
+	adr_class: 3
+}
+

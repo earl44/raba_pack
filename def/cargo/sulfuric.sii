@@ -1,0 +1,15 @@
+cargo_data: cargo.sulfuric
+{
+	name: "Krzesla (ST6)"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 18000.0
+
+	fragility: 0.5
+	
+	price_coef: 1.795
+
+	adr_class: 8
+}
+

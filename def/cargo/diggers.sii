@@ -1,0 +1,17 @@
+
+
+
+cargo_data: cargo.diggers
+{
+	name: "Paczki kurierskie"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 25000.0
+
+	fragility: 0.6
+	heavy: true
+	
+	price_coef: 1.475
+
+}
+

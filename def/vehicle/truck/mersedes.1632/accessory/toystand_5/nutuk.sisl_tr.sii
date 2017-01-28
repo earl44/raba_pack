@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : nutuk.sisl.mersdes.1632.toystand_5
+{
+	name: "Book - The Speech"
+	icon: "nutuk.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/nutuk.sisl_tr.pmd"
+	look: default
+	price: 9
+	unlock: 0
+}
+}

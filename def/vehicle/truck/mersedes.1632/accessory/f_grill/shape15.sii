@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape15.mersedes.1632.f_grill
+{
+	name: "Custom - 2"
+	price: 17940
+	unlock: 21
+	icon: "stock"
+	exterior_model: "/vehicle/truck/upgrade/frontgrill/mersedes_1632/frontgrill_15.pmd"
+}
+}

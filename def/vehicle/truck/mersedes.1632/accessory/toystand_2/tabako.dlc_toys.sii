@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : tabako.mersedes.1632.toystand_2
+{
+	name: "Tabako"
+	price: 7
+	unlock: 0
+	icon: "cigarette"
+   
+  interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/tabako.dlc_toys.pmd"
+}
+}

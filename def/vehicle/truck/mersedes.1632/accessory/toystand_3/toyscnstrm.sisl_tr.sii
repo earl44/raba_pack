@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : toyscnstrm.sisl.mersdes.1632.toystand_3
+{
+	name: "Scania Streamline Toy"
+	price: 250
+	unlock: 0
+	icon: "toyscnstrm.sisl_tr"
+  look: default
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/toyscnstrm.sisl_tr.pmd"
+}
+}

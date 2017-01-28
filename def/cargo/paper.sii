@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.paper
+{
+	name: "@@cn_paper@@"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 13000.0
+
+	fragility: 0.4
+	
+	price_coef: 1.275
+
+}
+

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupmanu.sisl.mersdes.1632.toystand_6
+{
+	name: "Mug - Manchester United"
+	icon: "cupmanu.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: manu
+	price: 16
+	unlock: 0
+}
+}

@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.furniture
+{
+	name: "@@cn_furniture@@"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 25000.0
+	mass[]: 25000.0
+
+	fragility: 0.7
+	
+	price_coef: 1.427
+}
+

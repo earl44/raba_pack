@@ -1,0 +1,29 @@
+SiiNunit
+{
+accessory_interior_data: standard.volvo.f16.interior
+{
+	name: "@@standard@@ S22"
+	price: 11760
+	unlock: 0
+	icon: "stock"
+
+	model: "/vehicle/truck/f16int/model.pmd"
+	animated_model: "/vehicle/truck/f16int/anim.pmd"
+
+	active_mirrors_part: a_mirrors
+	passive_mirrors_part: p_mirrors
+	look: look2
+	variant: standard
+
+@include "animations.sui"
+
+	dashboard_path:"/ui/dashboard/volvo_fh16_09.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/accessory/mirror/shape2.sii"
+
+	glass_panes[]: .volvo.f16.pane.front
+	glass_panes[]: .volvo.f16.pane.close
+	glass_panes[]: .volvo.f16.pane.far
+
+}
+@include "glass.dat"
+}

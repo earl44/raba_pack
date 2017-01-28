@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : levye.sisl.mersedes.1632.krempel_2
+{
+	name: "Crowbar"
+	price: 50
+	unlock: 0
+	icon: "crowbar.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/crowbar.sisl_tr.pmd"
+}
+}

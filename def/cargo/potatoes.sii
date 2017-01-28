@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.potatoes
+{
+	name: "@@cn_potatoes@@"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 23000.0
+	mass[]: 23000.0
+
+	fragility: 0.3
+	
+	price_coef: 1.320
+}
+

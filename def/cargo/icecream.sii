@@ -1,0 +1,15 @@
+
+
+cargo_data: cargo.icecream
+{
+	name: "DHL Express SL"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 14000.0
+
+	fragility: 0.4
+	
+	price_coef: 1.340
+}
+

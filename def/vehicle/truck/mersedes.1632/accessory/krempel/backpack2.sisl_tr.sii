@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : bpack2.sisl.mersedes.1632.krempel
+{
+	name: "Backpack"
+	icon: "backpack2.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/backpack2.sisl_tr.pmd"
+	price: 50
+	unlock: 0
+}
+}

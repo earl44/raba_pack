@@ -1,0 +1,15 @@
+cargo_data: cargo.neon
+{
+	name: "Maszyny stolarskie (ST2)"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 12000.0
+
+	fragility: 1.0
+	
+	price_coef: 1.775
+	
+	adr_class: 2
+
+}
+

@@ -1,0 +1,15 @@
+cargo_data: cargo.acetylene
+{
+	name: "Acetylen w butlach (ST2)"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 18000.0
+
+	fragility: 1.0
+	
+	price_coef: 1.775
+	
+	adr_class: 2
+
+}
+

@@ -1,0 +1,15 @@
+cargo_data: cargo.ammunition
+{
+	name: "Cement w Workach (ST1)" 
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 22000.0
+
+	fragility: 1.0
+	
+	price_coef: 2.175
+	
+	adr_class: 1
+
+}
+

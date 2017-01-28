@@ -1,0 +1,7 @@
+material : "eut2.dif" {
+	texture[0] : "/vehicle/truck/upgrade/wneka/mersedes_1632/textures/colors.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.2 , 0.2 , 0.2 }
+	shininess : 35
+	specular : { 0.1 , 0.1 , 0.1 }
+}

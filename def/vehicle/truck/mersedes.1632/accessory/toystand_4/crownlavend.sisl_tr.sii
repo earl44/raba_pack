@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : crownlavend.sisl.mersdes.1632.toystand_4
+{
+	name: "Crown Freshener - Lavender"
+	price: 40
+	unlock: 0
+	icon: "crownlavender.sisl_tr"
+	look: lavender
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/crownair.sisl_tr.pmd"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : chips.sisl.mersdes.1632.toystand_5
+{
+	name: "Chips"
+	icon: "chips.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/chips.sisl_tr.pmd"
+	look: default
+	price: 30
+	unlock: 0
+}
+}

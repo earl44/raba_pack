@@ -1,0 +1,14 @@
+SiiNunit
+{
+
+accessory_addon_int_data : holosith.sisl.mersdes.1632.toystand_6
+{
+	name: "Holocron (Sith)"
+	icon: "holosith.sisl_sw"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/holocron.sisl_sw.pmd"
+	look: default
+	variant: sith
+	price: 1200
+	unlock: 0
+}
+}

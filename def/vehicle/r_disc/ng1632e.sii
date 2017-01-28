@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : ng1632e.rdisc
+{
+	name: "Mercedes NG - elegance"
+	price: 3800
+	unlock: 1
+	model: "/vehicle/truck/upgrade/wheelr/mersedes_1632/r_disc_e.pmd"
+	icon: "r_wheel_steel"
+	
+}
+}

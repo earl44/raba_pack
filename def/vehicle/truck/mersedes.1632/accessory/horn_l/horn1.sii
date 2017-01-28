@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : horn1.mercedes.1632.horn_l
+{
+	name: "Tone"
+	price: 540
+	unlock: 4
+	icon: "horn_02_l"
+	exterior_model: "/vehicle/truck/upgrade/horn/horn_02_l.pmd"
+
+}
+}

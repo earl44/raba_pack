@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : canrbull25.sisl.mersdes.1632.toystand_1
+{
+	name: "Redbull"
+	icon: "can-redbull.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/sodacan250.sisl_tr.pmd"
+	look: redbull
+	price: 5
+	unlock: 0
+}
+}

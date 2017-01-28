@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : sportbag7.mersedes.1632.toyseat_1632{
+	name: "Assistant 4"
+	price: 780
+	unlock: 0
+	icon: "logo"
+   
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/ozan2.sisl_tr.pmd"
+}
+}

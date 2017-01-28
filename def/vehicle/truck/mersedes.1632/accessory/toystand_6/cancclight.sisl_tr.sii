@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : cancclight.sisl.mersdes.1632.toystand_6
+{
+	name: "Coca Cola Light"
+	icon: "can-cocacolalight.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/sodacan.sisl_tr.pmd"
+	look: light
+	price: 5
+	unlock: 0
+}
+}

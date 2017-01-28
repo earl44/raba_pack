@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : benk.mersedes.1632.toyseat_1632
+{
+	name: "Ben Kenobi"
+	price: 1500
+	unlock: 0
+	icon: "benkenobi.sisl_sw"
+            	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/ben.sisl_sw.pmd"
+}
+}

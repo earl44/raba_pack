@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.mersedes.1632.sp
+{
+	name: "Sunshield"
+	price: 800
+	unlock: 0
+	icon: "sunshield1"
+	exterior_model: "/vehicle/truck/upgrade/sp/sp.pmd"
+}
+}

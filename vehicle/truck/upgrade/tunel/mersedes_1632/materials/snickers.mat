@@ -1,0 +1,11 @@
+material : "eut2.dif.spec" {
+	texture[0] : "/vehicle/truck/upgrade/tunel/mersedes_1632/textures/snickers.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.3 , 0.2 , 0.3 }
+	env_factor : { 0.0 , 0.0 , 0.0 }
+	shininess : 35
+	specular : { 0.2 , 0.2 , 0.2 }
+}

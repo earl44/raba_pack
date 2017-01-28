@@ -1,0 +1,27 @@
+SiiNunit
+{
+
+accessory_addon_int_data : fanconsole.sisl.mersdes.1632.toystand_6
+{
+	name: "Console Fan"
+	icon: "fan.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/fandash_b.sisl_tr.pmd"
+	look: default
+	price: 125
+	unlock: 0
+	data[]: .fanconsole.sisl.phys_data
+}
+physics_toy_data : .fanconsole.sisl.phys_data
+{
+	phys_model:		"/vehicle/truck/upgrade/interior_decors/toystand/fandash.sisl_tr.pmd"   
+	phys_model_coll:	"/vehicle/truck/upgrade/interior_decors/toystand/fandash.sisl_tr.pmc"
+	phys_model_look: default
+	toy_type:		"TT_joint"		# TT_rope, TT_double_rope, TT_joint
+	toy_mass:	 	0.01		# toy mass
+	locator_hook_offset:	(0.00, 0.07842, 0.01515)	# offset of connection point on hook against toy locator
+	# definitions applied only to toys with joint
+		angular_stiffness:	(100.0, 100.0)		# joint - together with angular damping influences frequency and amplitude of oscilation
+	angular_damping:	(3.0, 3.0)		# joint - together with angular stiffness influences frequency and amplitude of oscilation
+	angular_amplitude:	(20.0, 0.0, 20.0)	
+}
+}

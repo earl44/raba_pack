@@ -1,0 +1,17 @@
+
+
+cargo_data: cargo.lpg
+{
+	name: "Lozka (ST3)"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 21000.0
+
+	fragility: 0.5
+	
+	price_coef: 1.880
+
+	adr_class: 3
+}
+

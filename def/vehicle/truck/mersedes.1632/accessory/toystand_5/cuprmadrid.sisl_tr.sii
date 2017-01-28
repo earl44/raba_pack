@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cuprmadrid.sisl.mersdes.1632.toystand_5
+{
+	name: "Mug - Real Madrid"
+	icon: "cuprmadrid.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: rmadrid
+	price: 16
+	unlock: 0
+}
+}

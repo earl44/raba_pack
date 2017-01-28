@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cup_dbs.mersedes.1632.toystand_5
+{
+	name: "DB Schenker Coffee Mug"
+	price: 15
+	unlock: 0
+	icon: "cup_dbs.dlc_toys"
+   
+  interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cup_dbs.dlc_toys.pmd"
+}
+}

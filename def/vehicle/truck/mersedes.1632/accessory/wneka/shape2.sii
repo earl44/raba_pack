@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape2.mersedes.1632.wneka
+{
+	name: "CB + Seiko"
+	price: 1789
+	unlock: 20
+	icon: "cb_1632"
+	interior_model: "/vehicle/truck/upgrade/wneka/mersedes_1632/zestaw_01.pmd"
+	
+	
+	#conflict_with[]: "shape1.mersedes.1632.gps_2"
+}
+}

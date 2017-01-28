@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : evrak2.sisl.mersedes.1632.krempel
+{
+	name: "Travel Expense Chart"
+	icon: "evrak2.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/evrak2.sisl_tr.pmd"
+	price: 160
+	unlock: 0
+}
+}

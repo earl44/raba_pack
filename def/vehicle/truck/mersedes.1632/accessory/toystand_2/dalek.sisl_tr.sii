@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : dalek.sisl.mersdes.1632.toystand_2
+{
+	name: "Dalek"
+	icon: "dalek.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/dalek.sisl_tr.pmd"
+	look: default
+	price: 110
+	unlock: 0
+}
+}

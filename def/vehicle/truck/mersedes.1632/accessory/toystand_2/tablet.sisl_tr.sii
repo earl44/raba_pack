@@ -1,0 +1,14 @@
+SiiNunit
+{
+
+accessory_addon_int_data : tablet.sisl.mersdes.1632.toystand_2
+{
+	name: "Tablet (Customizable)"
+	icon: "tablet.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/tablet.sisl_tr.pmd"
+	variant: default
+	look: default
+	price: 599
+	unlock: 0
+}
+}

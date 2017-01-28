@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_int_data : cerceve12k.sisl.mersdes.1632.toystand_3
+{
+	name: "Picture Frame 4 (Vertical ve 2 Small)"
+	price: 60
+	unlock: 0
+	icon: "framever_e1.sisl_tr"
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/pictureframe.sisl_tr.pmd"
+	variant: extra2
+
+}
+}

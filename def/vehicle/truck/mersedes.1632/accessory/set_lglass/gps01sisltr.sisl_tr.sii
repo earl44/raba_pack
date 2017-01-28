@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_int_data : gps01sisltr.mersedes.1632.set_lglass
+{
+	name: "Tomtom Trucker 6500"
+	price: 1410     
+     suitable_for[]: "exclusive.mersedes.1632_09.interior"
+     suitable_for[]: "highroof.mersedes.1632_09.interior"
+     suitable_for[]: "highroof.exclusive.mersedes.1632_09.interior"
+     suitable_for[]: "lowroof.mersedes.1632_09.interior"
+     suitable_for[]: "lowroof.exclusive.mersedes.1632_09.interior"
+     suitable_for[]: "standard.mersedes.1632_09.interior"
+     unlock: 0
+	icon: "gps.dlc_toys"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyglass/gpseu.sisl_tr.pmd"
+}
+}

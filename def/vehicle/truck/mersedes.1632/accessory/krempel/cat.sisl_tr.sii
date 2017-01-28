@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : cat.sisl.mersedes.1632.krempel
+{
+	name: "Tekir"
+	price: 1500
+	unlock: 0
+	icon: "cat.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/cat.sisl_tr.pmd"
+}
+}

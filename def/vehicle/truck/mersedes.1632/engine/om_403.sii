@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_engine_data : om_403.mersedes.1632.engine
+{
+	name: "OM 403 Natural Aspiration V10"
+	price: 6800
+	unlock: 0
+	info[]: "315 @@hp@@ (235@@kw@@)"
+	info[]: "1030 Nm"
+	info[]: "1600 rpm"
+	icon: "engine_01"
+	torque: 1030
+	volume:	13.95
+	
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/interior_om403.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/exterior_om403.sii"
+}
+}

@@ -1,0 +1,17 @@
+
+
+cargo_data: cargo.petrol
+{
+	name: "Plytki ceramiczne (ST3)"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 21000.0
+
+	fragility: 0.4
+	
+	price_coef: 1.815
+
+	adr_class: 3
+}
+

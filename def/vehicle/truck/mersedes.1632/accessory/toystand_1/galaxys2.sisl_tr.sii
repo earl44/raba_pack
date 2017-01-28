@@ -1,0 +1,12 @@
+SiiNunit
+{
+
+accessory_addon_int_data : galaxys2.sisl.mersdes.1632.toystand_1
+{
+	name: "Samsung Galaxy SII"
+	icon: "galaxys2.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/galaxys2.sisl_tr.pmd"
+	price: 599
+	unlock: 0
+}
+}

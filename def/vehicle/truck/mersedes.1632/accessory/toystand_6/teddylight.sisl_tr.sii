@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : teddyclight.sisl.mersdes.1632.toystand_6
+{
+	name: "Teddy Bear Light"
+	price: 180
+	unlock: 0
+	look: light
+	icon: "teddylight.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/teddy.sisl_tr.pmd"
+}
+}

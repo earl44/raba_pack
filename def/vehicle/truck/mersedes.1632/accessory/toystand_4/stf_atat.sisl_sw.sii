@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_addon_int_data : stfatat.sisl.mersdes.1632.toystand_4
+{
+	name: "AT-AT Stuffed Toy"
+	price: 160
+	icon: "stf_atat.sisl_sw"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/stf_atat.sisl_sw.pmd"
+}
+}

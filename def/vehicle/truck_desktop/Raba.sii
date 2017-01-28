@@ -1,0 +1,178 @@
+SiiNunit
+{
+
+vehicle: .desktop.truck
+{
+ fuel_relative: &3f000000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+
+ accessories[]: .mercedes1632.data
+ accessories[]: .mercedes1632.chassis
+ accessories[]: .mercedes1632.cabin
+ accessories[]: .mercedes1632.interior
+ accessories[]: .mercedes1632.engine
+ accessories[]: .mercedes1632.transmission
+ accessories[]: .mercedes1632.soundint
+ accessories[]: .mercedes1632.soundext
+ accessories[]: .mercedes1632.head_light
+ accessories[]: .mercedes1632.fdisc
+ accessories[]: .mercedes1632.fhub
+ accessories[]: .mercedes1632.fnuts
+ accessories[]: .mercedes1632.fcover
+ accessories[]: .mercedes1632.f_tire
+ accessories[]: .mercedes1632.rdisc
+ accessories[]: .mercedes1632.rhub
+ accessories[]: .mercedes1632.rnuts
+ accessories[]: .mercedes1632.r_tire
+ accessories[]: .mercedes1632.paint_job
+ accessories[]: .mercedes1632.rdisc2
+ accessories[]: .mercedes1632.rhub2
+ accessories[]: .mercedes1632.rnuts2
+ accessories[]: .mercedes1632.r_tire2
+ accessories[]: .mercedes1632.mirror
+ odometer: 0
+ odometer_float_part: &38f1adcc
+}
+
+vehicle_accessory : .mercedes1632.data {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/data.sii"
+}
+
+vehicle_accessory : .mercedes1632.chassis {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/chassis/4x2.sii"
+}
+
+vehicle_accessory : .mercedes1632.cabin {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/cabin/l2h3.sii"
+}
+
+vehicle_accessory : .mercedes1632.interior {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/interior/standard.sii"
+}
+
+vehicle_accessory : .mercedes1632.engine {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/engine/om_403.sii"
+}
+
+vehicle_accessory : .mercedes1632.transmission {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/transmission/16_speed.sii"
+}
+
+vehicle_sound_accessory : .mercedes1632.soundint {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/sound/interior_om403.sii"
+}
+
+vehicle_sound_accessory : .mercedes1632.soundext {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/sound/exterior_om403.sii"
+}
+
+vehicle_accessory : .mercedes1632.head_light {
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/head_light/standard.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.fdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_disc/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.fhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_hub/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.fnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_nuts/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.fcover {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_cover/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.f_tire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_tire/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.rdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_disc/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.rhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_hub/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.rnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.r_tire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_tire/ng1632.sii"
+}
+
+vehicle_paint_job_accessory : .mercedes1632.paint_job {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ base_color: (&3b2a64c3, &3c63bcd3, &3d96f007)
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/paint_job/color2.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.rdisc2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_disc/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.rhub2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_hub/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.rnuts2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/ng1632.sii"
+}
+
+vehicle_wheel_accessory : .mercedes1632.r_tire2 {
+ offset: 2
+ wear: 0
+ data_path: "/def/vehicle/r_tire/ng1632.sii"
+}
+vehicle_addon_accessory : .mercedes1632.mirror {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/mersedes.1632/accessory/mirror/shape1.sii"
+}
+}

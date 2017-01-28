@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_int_data : cerceve2.sisl.mersdes.1632.toystand_1
+{
+	name: "Picture Frame 2 (Horizontal)"
+	price: 30
+	unlock: 0
+	icon: "framehor.sisl_tr"
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/pictureframe.sisl_tr.pmd"
+	variant: defaulthor
+
+}
+}

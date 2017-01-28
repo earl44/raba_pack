@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupmotrucker.sisl.mersdes.1632.toystand_6
+{
+	name: "Mug - Mother Trucker"
+	icon: "cupmotrucker.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: motrucker
+	price: 16
+	unlock: 0
+}
+}

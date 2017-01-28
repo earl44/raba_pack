@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color2.mersedes.1632.paint_job
+{
+	name: "Hungaro"
+	price: 3900
+	unlock: 0
+	base_color :  (0.3467, 0.3467, 0.3467)
+	base_color_locked: true
+	stock: true
+}
+}

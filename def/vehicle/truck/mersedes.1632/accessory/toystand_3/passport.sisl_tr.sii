@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : passport.sisl.mersdes.1632.toystand_3
+{
+	name: "Passport (Customizable)"
+	icon: "passport.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/passport.sisl_tr.pmd"
+	look: default
+	price: 250
+	unlock: 0
+}
+}

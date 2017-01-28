@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupbarca.sisl.mersdes.1632.toystand_4
+{
+	name: "Mug - FC Barcelona"
+	icon: "cupsbarca.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: barca
+	price: 16
+	unlock: 0
+}
+}

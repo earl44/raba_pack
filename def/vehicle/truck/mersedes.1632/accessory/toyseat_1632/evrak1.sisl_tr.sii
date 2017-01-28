@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : evrak1.mersedes.1632.toyseat_1632
+{
+	name: "Carnet TIR"
+	icon: "evrak1.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/evrak1.sisl_tr.pmd"
+	price: 160
+	unlock: 0
+}
+}

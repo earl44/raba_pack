@@ -1,0 +1,18 @@
+
+
+
+cargo_data: cargo.hchemicals
+{
+	name: "Owoce (ST2)"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 20000.0
+
+	fragility: 0.65
+	
+	price_coef: 2.180
+
+	adr_class: 2
+}
+

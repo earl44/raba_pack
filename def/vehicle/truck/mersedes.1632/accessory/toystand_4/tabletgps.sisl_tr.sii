@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : tabletgps.sisl.mersdes.1632.toystand_4
+{
+	name: "Tablet GPS"
+	icon: "tabletgps.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/tablet.sisl_tr.pmd"
+	variant: gps
+	price: 599
+	unlock: 0
+}
+}

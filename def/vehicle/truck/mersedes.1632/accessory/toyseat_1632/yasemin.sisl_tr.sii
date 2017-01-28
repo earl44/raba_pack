@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : yasemin.mersedes.1632.toyseat_1632
+{
+	name: "Yasemin"
+	price: 1500
+    unlock: 0
+	icon: "yasemin.sisl_tr"
+            	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/yasemin.sisl_tr.pmd"
+}
+}

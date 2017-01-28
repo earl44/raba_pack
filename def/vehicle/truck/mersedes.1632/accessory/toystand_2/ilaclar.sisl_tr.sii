@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : ilaclar.sisl.mersdes.1632.toystand_2
+{
+	name: "Medicines"
+	price: 60
+	unlock: 0
+	icon: "ilaclar.sisl_tr"
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/ilaclar.sisl_tr.pmd"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : jgun.mersedes.1632.toystand_5
+{
+    name: "Colt 45"
+	price: 1350
+    unlock: 0
+    icon: "jgun.dlc_toys" 
+	
+    interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/jgun.dlc_toys.pmd"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : gps_iphone.mersedes.1632.set_lglass
+{
+	name: "iPhone Navigator"
+	price: 1410
+	unlock: 0
+	icon: "gps.dlc_toys"
+   
+  	interior_model: "/vehicle/truck/upgrade/interior_decors/toyglass/gps_iphone.dlc_toys.pmd"
+}
+}

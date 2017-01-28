@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.toys
+{
+	name: "@@cn_toys@@"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 11000.0
+	mass[]: 11000.0
+
+	fragility: 0.4
+	
+	price_coef: 1.425
+}
+

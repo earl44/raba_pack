@@ -1,0 +1,33 @@
+SiiNunit
+{
+accessory_transmission_data : 1_speed.mersedes.1632.transmission
+{
+	
+name: "@@ZF-5 S-110 GP 16spd@@"
+	
+price: 3000
+	
+unlock: 0
+	
+icon: "transmission_generic"
+		
+differential_ratio: 5.3
+	
+ratios_reverse[0]: -16.2
+ratios_reverse[1]: -12.42	
+ratios_forward[0]: 13.9
+ratios_forward[1]: 8.68
+ratios_forward[2]: 7.52
+ratios_forward[3]: 6.37
+ratios_forward[4]: 5.51
+ratios_forward[5]: 4.65
+ratios_forward[6]: 4.04
+ratios_forward[7]: 3.43
+ratios_forward[8]: 2.98
+ratios_forward[9]: 2.53
+ratios_forward[10]: 2.20
+ratios_forward[11]: 1.86
+ratios_forward[12]: 1.61
+ratios_forward[13]: 1.36
+ratios_forward[14]: 1.18
+ratios_forward[15]: 1.0}}

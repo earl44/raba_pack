@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : crownjasmine.sisl.mersdes.1632.toystand_3
+{
+	name: "Crown Freshener - Jasmine"
+	price: 40
+	unlock: 0
+	icon: "crownjasmine.sisl_tr"
+  look: jasmine
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/crownair.sisl_tr.pmd"
+}
+}

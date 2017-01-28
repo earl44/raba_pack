@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_engine_data : om_404t.mersedes.1632.engine
+{
+	name: "OM 404 Turbocharged V12"
+	price: 15200
+	unlock: 0
+	info[]: "443 @@hp@@ (330@@kw@@)"
+	info[]: "1690 Nm"
+	info[]: "1500 rpm"
+	icon: "engine_01"
+	torque: 1690
+	volume:	13.95
+	
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/interior_om404t.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/exterior_om404t.sii"
+}
+}

@@ -1,0 +1,14 @@
+cargo_data: cargo.nitrocel
+{
+	name: "Zbiorniki na olej (ST4)"
+	vehicles[]: trailer.krone.profiliner
+	mass[]: 17000.0
+
+	fragility: 1.0
+	
+	price_coef: 1.855
+	
+	adr_class: 4
+
+}
+

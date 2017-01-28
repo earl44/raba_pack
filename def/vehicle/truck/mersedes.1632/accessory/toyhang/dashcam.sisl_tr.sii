@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : gps.dashsisltr.sisl.mersedes.1632.toyhang
+{
+	name: "Dashcam (GPS)"
+	icon: "dashcam.sisl_tr"
+	price: 280
+	unlock: 0
+	variant: gps
+	interior_model:  "/vehicle/truck/upgrade/interior_decors/toyhang/dashcam.sisl_tr.pmd"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_int_data : rukavice.mersedes.1632.toystand_5
+{
+	name: "Glove"
+	price: 195
+	unlock: 0
+	icon: "rukavice.dlc_toys"
+   
+  interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/rukavice.dlc_toys.pmd"
+  exterior_model: "/vehicle/truck/upgrade/interior_decors/toystand/rukavice.dlc_toys.pmd"
+}
+}

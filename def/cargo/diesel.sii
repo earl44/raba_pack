@@ -1,0 +1,15 @@
+cargo_data: cargo.diesel
+{
+	name: "Ropa w beczkach (ST4)"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 25000.0
+
+	fragility: 0.5
+	
+	price_coef: 1.820
+
+	adr_class: 3
+}
+

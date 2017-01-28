@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : teddycpolar.sisl.mersdes.1632.toystand_6
+{
+	name: "Teddy Bear Polar"
+	price: 180
+	unlock: 0
+	look: polar
+	icon: "teddypolar.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/teddy.sisl_tr.pmd"
+}
+}

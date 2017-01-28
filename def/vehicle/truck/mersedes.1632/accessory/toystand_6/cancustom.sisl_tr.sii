@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : cancustom.sisl.mersdes.1632.toystand_6
+{
+	name: "Can 330 ml (Customizable)"
+	icon: "can-cocacola.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/sodacan.sisl_tr.pmd"
+	look: custom
+	price: 5
+	unlock: 0
+}
+}

@@ -1,0 +1,17 @@
+
+
+cargo_data: cargo.sawpanels
+{
+	name: "@@cn_sawpanels@@"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 13000.0
+	mass[]: 14000.0
+
+	fragility: 0.3
+	
+	price_coef: 1.413
+
+}
+

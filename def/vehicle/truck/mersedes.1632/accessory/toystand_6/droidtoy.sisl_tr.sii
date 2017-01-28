@@ -1,0 +1,12 @@
+SiiNunit
+{
+
+accessory_addon_int_data : droidtoy.sisl.mersdes.1632.toystand_6
+{
+	name: "Android Toy"
+	icon: "droidtoy.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/droidtoy.sisl_tr.pmd"
+	price: 12
+	unlock: 0
+}
+}

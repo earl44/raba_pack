@@ -1,0 +1,15 @@
+cargo_data: cargo.phosphor
+{
+	name: "Wedliny (ST4)"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 13000.0
+
+	fragility: 1.0
+	
+	price_coef: 1.690
+	
+	adr_class: 4
+
+}
+

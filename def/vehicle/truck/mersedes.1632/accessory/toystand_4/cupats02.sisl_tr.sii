@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupats02.sisl.mersdes.1632.toystand_4
+{
+	name: "Mug - ATS Woman"
+	icon: "cupats02.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: ats02
+	price: 16
+	unlock: 0
+}
+}

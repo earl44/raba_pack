@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : nikon.sisl.mersdes.1632.toystand_4
+{
+	name: "Nikon DSLR Camera"
+	icon: "nikon.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/nikon.sisl_tr.pmd"
+	look: default
+	price: 480
+	unlock: 0
+}
+}

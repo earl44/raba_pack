@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.mersedes.1632.back_cab
+{
+	name: "Sarga"
+	price: 6500
+	unlock: 21
+	icon: "stock"
+	exterior_model: "/vehicle/truck/upgrade/back_cab/mersedes_1632/back_01.pmd"
+}
+}

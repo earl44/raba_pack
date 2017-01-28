@@ -1,0 +1,17 @@
+
+
+cargo_data: cargo.tyres
+{
+	name: "@@cn_tyres@@"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 23000.0
+	mass[]: 23000.0
+	mass[]: 23000.0
+
+	fragility: 0
+	
+	price_coef: 1.415
+}
+

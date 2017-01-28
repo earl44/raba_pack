@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupchelsea.sisl.mersdes.1632.toystand_5
+{
+	name: "Mug - Chelsea"
+	icon: "cupchelsea.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: chelsea
+	price: 16
+	unlock: 0
+}
+}

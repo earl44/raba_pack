@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape3.mersedes.1632.back_cab
+{
+	name: "Taurus"
+	price: 6500
+	unlock: 21
+	icon: "stock"
+	exterior_model: "/vehicle/truck/spoiler/back_03.pmd"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : toyvolvo12.sisl.mersdes.1632.toystand_1
+{
+	name: "Volvo FH16 Toy"
+	price: 250
+	unlock: 0
+	icon: "toyvolvo12.sisl_tr"
+  look: default
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/toyvolvo12.sisl_tr.pmd"
+}
+}

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape3.mersedes.1632.sp
+{
+	name: "Sunshield painted"
+	price: 1350
+	unlock: 17
+	icon: "sunshield1_painted"
+	exterior_model: "/vehicle/truck/upgrade/sp/sp_03.pmd"
+}
+}

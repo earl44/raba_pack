@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupfbahce.sisl.mersdes.1632.toystand_4
+{
+	name: "Mug - Fenerbahçe"
+	icon: "cupfbahce.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: fenerbahce
+	price: 16
+	unlock: 0
+}
+}

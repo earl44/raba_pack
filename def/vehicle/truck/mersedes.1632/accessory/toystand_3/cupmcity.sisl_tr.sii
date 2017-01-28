@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupmcity.sisl.mersdes.1632.toystand_3
+{
+	name: "Mug - Manchester City"
+	icon: "cupmcity.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: mcity
+	price: 16
+	unlock: 0
+}
+}

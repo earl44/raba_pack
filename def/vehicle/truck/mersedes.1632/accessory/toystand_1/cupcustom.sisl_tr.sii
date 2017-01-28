@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupcustom.sisl.mersdes.1632.toystand_1
+{
+	name: "Mug - Customizable"
+	icon: "cupchiponline.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: custom
+	price: 16
+	unlock: 0
+}
+}

@@ -1,0 +1,18 @@
+
+
+
+cargo_data: cargo.tractors
+{
+	name: "Biurka"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 13000.0
+
+	fragility: 0.69
+	heavy: true
+	
+	price_coef: 1.461
+
+}
+

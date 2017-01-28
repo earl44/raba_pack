@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape3.mersedes.1632.zderzak
+{
+	name: "Bumper_chrome"
+	price: 1590
+	unlock: 14
+	icon: "bumper_chrom"
+	exterior_model: "/vehicle/truck/upgrade/zderzak/mersedes_1632/zderzak_03.pmd"
+}
+}

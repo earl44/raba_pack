@@ -1,0 +1,9 @@
+material : "eut2.dif.spec" {
+	texture[0] : "/vehicle/truck/mersedes_1632/interior/textures/boden.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0.0 , 0.0 }
+	diffuse : { 0.8 , 0.8 , 0.8 }
+	shininess : 64
+	specular : { 0.0 , 0.0 , 0.0 }
+}

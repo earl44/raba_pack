@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : lsobi.sisl.mersdes.1632.toystand_6
+{
+	name: "Lightsaber - Obi Wan Kenobi"
+	icon: "ls_obi.sisl_sw"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/ls_obi.sisl_sw.pmd"
+	look: default
+	price: 90
+	unlock: 0
+}
+}

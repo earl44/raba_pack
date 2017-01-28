@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : tesbih.sisl.mersdes.1632.toystand_3
+{
+	name: "Tesbih"
+	icon: "tesbih.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/tesbih.sisl_tr.pmd"
+	look: default
+	price: 40
+	unlock: 0
+}
+}

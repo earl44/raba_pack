@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : cigmb.sisl.mersdes.1632.toystand_3
+{
+	name: "Cigarettes - Marlboro"
+	icon: "cig-marlboro.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cigs.sisl_tr.pmd"
+	look: marlboro
+	price: 9
+	unlock: 0
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : cancust250.sisl.mersdes.1632.toystand_1
+{
+	name: "Can 250 ml (Customizable)"
+	icon: "can-redbull.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/sodacan250.sisl_tr.pmd"
+	look: custom
+	price: 5
+	unlock: 0
+}
+}

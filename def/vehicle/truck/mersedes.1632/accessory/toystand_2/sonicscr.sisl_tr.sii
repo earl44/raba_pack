@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : sonicscr.sisl.mersdes.1632.toystand_2
+{
+	name: "Sonic Screwdriver"
+	icon: "sonicscr.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/sonicscr.sisl_tr.pmd"
+	look: default
+	price: 1200
+	unlock: 0
+}
+}

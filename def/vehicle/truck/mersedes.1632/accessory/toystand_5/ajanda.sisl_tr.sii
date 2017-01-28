@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : ajanda.sisl.mersdes.1632.toystand_5
+{
+	name: "Journal"
+	icon: "ajanda.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/ajanda.sisl_tr.pmd"
+	look: default
+	price: 20
+	unlock: 0
+}
+}

@@ -1,0 +1,27 @@
+SiiNunit
+{
+accessory_addon_int_data : ayca.mersedes.1632.toyseat_1632
+{
+	name: "Ayça"
+	price: 1500
+    unlock: 0
+	icon: "ayca.sisl_tr"
+  interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/ayca.sisl_tr.pmd"
+	data[]: .aycatail.phys_data
+}
+
+physics_toy_data : .aycatail.phys_data
+{
+	phys_model_coll: "/vehicle/truck/upgrade/interior_decors/toyseat/ayca_tail.sisl_tr.pmc"
+	phys_model:      "/vehicle/truck/upgrade/interior_decors/toyseat/ayca_tail.sisl_tr.pmd"
+  
+	toy_type:		"TT_joint_free"			# TT_rope, TT_double_rope, TT_joint, TT_joint_free
+	toy_mass:		0.2				# toy mass
+	linear_damping:		0.95				# damping of swinging of toy
+	linear_stiffness: 	0.8	
+	angular_amplitude:	(15.0, 0.0, 14.0)		# joint - maximal deflection agains equilibrium position  
+
+	locator_hook_offset:	( -0.18944, 0.73678, 0.00051 )
+	  
+}
+}

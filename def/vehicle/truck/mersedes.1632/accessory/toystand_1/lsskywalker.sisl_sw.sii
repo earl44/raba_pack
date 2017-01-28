@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : lsskywalker.sisl.mersdes.1632.toystand_1
+{
+	name: "Lightsaber - Skywalker Family"
+	icon: "ls_skywalker.sisl_sw"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/ls_skywalker.sisl_sw.pmd"
+	look: default
+	price: 90
+	unlock: 0
+}
+}

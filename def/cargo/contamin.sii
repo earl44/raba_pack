@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.contamin
+{
+	name: "Odpady w beczkach (ST5)"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 16000.0
+
+	fragility: 0.5
+	
+	price_coef: 2.070
+
+	adr_class: 6
+}
+

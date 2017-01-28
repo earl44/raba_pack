@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_engine_data : om422a.mersedes.1632.engine
+{
+	name: "V8 OM 422A"
+	price: 10040
+	unlock: 0
+	info[]: "330 @@hp@@ (243@@kw@@)"
+	info[]: "1402 @@nm@@"
+	info[]: "1@@dg@@500 @@rpm@@"
+	icon: "engine_01"
+	torque: 1404
+	volume: 13.6
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/interior_1722.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/exterior_1722.sii"
+}
+}

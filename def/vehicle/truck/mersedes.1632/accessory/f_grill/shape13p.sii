@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape13p.mersedes.1632.f_grill
+{
+	name: "Champion - painted"
+	price: 12880
+	unlock: 13
+	icon: "stock"
+	exterior_model: "/vehicle/truck/upgrade/frontgrill/mersedes_1632/frontgrill_13p.pmd"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : melissa.mersedes.1632.toyseat_1632
+{
+	name: "Melissa"
+	price: 1500
+    
+     unlock: 0
+	icon: "melissa.sisl_tr"
+            	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/melissa.sisl_tr.pmd"
+}
+}

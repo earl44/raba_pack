@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : magatlas.sisl.mersedes.1632.krempel
+{
+	name: "Magazines - Atlas"
+	price: 28
+	unlock: 0
+	icon: "mag-atlas.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/dergiler.sisl_tr.pmd"
+	look: atlas
+}
+}

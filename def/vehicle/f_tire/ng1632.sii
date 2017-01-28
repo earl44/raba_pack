@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_wheel_data : ng1632.ftire
+{
+	name: "Mercedes NG"
+	price: 1200
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheelf/mersedes_1632/f_tire_s.pmd"
+	icon: "f_wheel_steel"
+	
+	defaults[]: "/def/vehicle/f_nuts/ng1632.sii"
+	defaults[]: "/def/vehicle/f_disc/ng1632.sii"
+	defaults[]: "/def/vehicle/f_hub/ng1632.sii"
+	defaults[]: "/def/vehicle/f_cover/ng1632.sii"
+	
+	roll_resistance: 6.5
+	wet_grip: 0.9
+	noise_volume: 75
+}
+}

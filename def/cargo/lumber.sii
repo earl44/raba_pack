@@ -1,0 +1,15 @@
+
+
+cargo_data: cargo.lumber
+{
+	name: "Dachowka ceramiczna"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 25000.0
+
+	fragility: 0.1
+	
+	price_coef: 1.250
+}
+

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cuptrlogo.sisl.mersdes.1632.toystand_3
+{
+	name: "Mug - Türkiye"
+	icon: "cuptrlogo.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: turkeylogo
+	price: 16
+	unlock: 0
+}
+}

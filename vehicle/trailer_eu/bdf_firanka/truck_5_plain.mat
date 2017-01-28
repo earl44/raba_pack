@@ -1,0 +1,12 @@
+material : "eut2.dif.shadow" {
+	texture[0] : "/vehicle/trailer_eu/bdf_firanka/plain.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_base"
+	diffuse : { 0.8 , 0.8 , 0.8 }
+	specular : { 0 , 0 , 0 }
+	shininess : 100
+	tint : { 1 , 1 , 1 }
+	add_ambient : 0
+
+}

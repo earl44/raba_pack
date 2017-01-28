@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_addon_int_data : stfbantha.sisl.mersdes.1632.toystand_4
+{
+	name: "Bantha Stuffed Toy"
+	price: 160
+	icon: "stf_bantha.sisl_sw"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/stf_bantha.sisl_sw.pmd"
+}
+}

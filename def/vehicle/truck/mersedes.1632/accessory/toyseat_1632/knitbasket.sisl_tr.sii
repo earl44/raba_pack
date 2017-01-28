@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : knitbaskjkrn.mersedes.1632.toyseat_1632
+{
+	name: "Knitting Basket"
+	icon: "knitbasket.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/knitbasket.sisl_tr.pmd"
+	price: 90
+	unlock: 0
+}
+}

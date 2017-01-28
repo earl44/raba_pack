@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : magplayboy.sisl.mersedes.1632.krempel
+{
+	name: "Magazines - Playboy"
+	price: 28
+	unlock: 0
+	icon: "mag-playboy.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/dergiler.sisl_tr.pmd"
+	look: playboy
+}
+}

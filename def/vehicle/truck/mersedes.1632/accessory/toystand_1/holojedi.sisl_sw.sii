@@ -1,0 +1,14 @@
+SiiNunit
+{
+
+accessory_addon_int_data : holojedi.sisl.mersdes.1632.toystand_1
+{
+	name: "Holocron (Jedi)"
+	icon: "holojedi.sisl_sw"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/holocron.sisl_sw.pmd"
+	look: default
+	variant: jedi
+	price: 1200
+	unlock: 0
+}
+}

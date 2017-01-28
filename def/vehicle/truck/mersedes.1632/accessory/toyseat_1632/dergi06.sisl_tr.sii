@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : dergi06sisl.mersedes.1632.toyseat_1632
+{
+	name: "Magazines - PCnet"
+	price: 18
+	unlock: 0
+	icon: "dergi06.sisl_tr"
+   
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/dergiler06.sisl_tr.pmd"
+}
+}

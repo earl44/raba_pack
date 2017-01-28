@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : cupyoda.sisl.mersdes.1632.toystand_4
+{
+	name: "Mug - Yoda"
+	icon: "cup-yoda.sisl_sw"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_sw.pmd"
+	look: yoda
+	price: 20
+	unlock: 0
+}
+}

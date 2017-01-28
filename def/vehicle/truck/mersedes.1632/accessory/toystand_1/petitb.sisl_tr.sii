@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : petitb.sisl.mersdes.1632.toystand_1
+{
+	name: "Snacks"
+	icon: "petitb.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/petitbeurre.sisl_tr.pmd"
+	look: default
+	price: 30
+	unlock: 0
+}
+}

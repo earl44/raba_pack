@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupmetal.sisl.mersdes.1632.toystand_3
+{
+	name: "Mug - Metal"
+	icon: "cupmetal.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cup-metal.sisl_tr.pmd"
+	look: default
+	price: 16
+	unlock: 0
+}
+}

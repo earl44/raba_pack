@@ -1,0 +1,17 @@
+
+
+cargo_data: cargo.hwaste
+{
+	name: "Mrozone Owoce (ST5)"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 17000.0
+
+	fragility: 0.5
+	
+	price_coef: 2.050
+
+	adr_class: 6
+}
+

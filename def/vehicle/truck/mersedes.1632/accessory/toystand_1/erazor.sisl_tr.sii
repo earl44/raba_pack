@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : erazor.sisl.mersdes.1632.toystand_1
+{
+	name: "Shaver"
+	icon: "erazor.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/erazor.sisl_tr.pmd"
+	look: default
+	price: 199
+	unlock: 0
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : midland.sisl.mersdes.1632.toystand_6
+{
+	name: "Midland ALAN-80 Radio"
+	icon: "midland.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/midland.sisl_tr.pmd"
+	look: default
+	price: 129
+	unlock: 0
+}
+}

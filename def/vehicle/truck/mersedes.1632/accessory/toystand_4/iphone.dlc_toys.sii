@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_int_data : iphone.mersedes.1632.toystand_4
+{
+	name: "iPhone 6"
+	price: 780
+	unlock: 0
+	icon: "jiphone.dlc_toys"	
+  
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/iPhone.dlc_toys.pmd"
+
+}
+}

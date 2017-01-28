@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupbesiktas.sisl.mersdes.1632.toystand_6
+{
+	name: "Mug - Beşiktaş"
+	icon: "cupbesiktas.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: besiktas
+	price: 16
+	unlock: 0
+}
+}

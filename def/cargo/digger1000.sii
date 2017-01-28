@@ -1,0 +1,18 @@
+
+
+
+cargo_data: cargo.digger1000
+{
+	name: "Mrozone kurczaki"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 16000.0
+
+	fragility: 0.6
+	heavy: true
+	
+	price_coef: 1.470
+
+}
+

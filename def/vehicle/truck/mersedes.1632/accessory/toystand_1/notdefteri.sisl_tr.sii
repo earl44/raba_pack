@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : notdefteri.sisl.mersdes.1632.toystand_1
+{
+	name: "Notepad"
+	icon: "notdefteri.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/notdefteri.sisl_tr.pmd"
+	look: default
+	price: 90
+	unlock: 0
+}
+}

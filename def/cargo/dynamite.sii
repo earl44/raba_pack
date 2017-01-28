@@ -1,0 +1,15 @@
+cargo_data: cargo.dynamite
+{
+	name: "Lodowki (ST1)"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 20000.0
+
+	fragility: 1.0
+	
+	price_coef: 2.175
+	
+	adr_class: 1
+
+}
+

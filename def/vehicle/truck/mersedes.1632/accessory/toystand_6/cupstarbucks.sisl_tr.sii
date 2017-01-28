@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupstarbucks.sisl.mersdes.1632.toystand_6
+{
+	name: "Mug - Starbucks"
+	icon: "cupjacobs.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: starbucks
+	price: 16
+	unlock: 0
+}
+}

@@ -1,0 +1,12 @@
+material : "eut2.dif.spec.add.env.indenv" {
+	texture[0] : "/vehicle/truck/mersedes_1632/interior/textures/chrom.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/mersedes_1632/interior/textures/env.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.294118 , 0.294118 , 0.294118 }
+	env_factor : { 0.0 , 0.0 , 0.0 }
+	fresnel : { -1.0 , 1.0 }
+	shininess : 24
+	specular : { 0.694118 , 0.694118 , 0.694118 }
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : cupvader.sisl.mersdes.1632.toystand_6
+{
+	name: "Mug - Darth Vader"
+	icon: "cup-vader.sisl_sw"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_sw.pmd"
+	look: default
+	price: 20
+	unlock: 0
+}
+}

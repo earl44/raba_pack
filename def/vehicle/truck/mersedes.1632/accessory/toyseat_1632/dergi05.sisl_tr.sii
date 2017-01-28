@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : dergi05sisl.mersedes.1632.toyseat_1632
+{
+	name: "Magazines - Geo"
+	price: 18
+	unlock: 0
+	icon: "dergi05.sisl_tr"
+   
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/dergiler05.sisl_tr.pmd"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : snackpile.sisl.mersedes.1632.krempel
+{
+	name: "Snack Pile"
+	icon: "snackpile.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/snackpile.sisl_tr.pmd"
+	look: default
+	price: 90
+	unlock: 0
+}
+}

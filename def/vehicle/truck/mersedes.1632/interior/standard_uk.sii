@@ -1,0 +1,30 @@
+SiiNunit
+{
+accessory_interior_data: standard.uk.mersedes.1632.interior
+{
+	name: "@@standard@@ 832"
+	price: 9760
+	unlock: 0
+	icon: "stock"
+
+	model: "/vehicle/truck/mersedes_1632/interior/model.pmd"
+	animated_model: "/vehicle/truck/mersedes_1632/interior/anim.pmd"
+	active_mirrors_part: a_mirrors
+	passive_mirrors_part: p_mirrors
+	look: look2
+	variant: default
+
+@include "animations_uk.sui"
+
+	dashboard_path:"/ui/dashboard/mercedes_1632.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/accessory/mirror/shape1.sii"
+	gps_path:"/ui/gps.sii"
+
+	glass_panes[]: .mersedes.1632.pane.front
+	glass_panes[]: .mersedes.1632.pane.close
+	glass_panes[]: .mersedes.1632.pane.far
+	
+@include "dashboard_color.sui"	
+}
+@include "glass.dat"
+}

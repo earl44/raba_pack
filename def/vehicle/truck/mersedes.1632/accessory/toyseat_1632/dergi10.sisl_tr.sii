@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : dergi10sisl.mersedes.1632.toyseat_1632
+{
+	name: "Magazines - Playboy"
+	price: 18
+	unlock: 0
+	icon: "dergi10.sisl_tr"
+   
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/dergiler10.sisl_tr.pmd"
+}
+}

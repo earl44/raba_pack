@@ -1,0 +1,27 @@
+SiiNunit
+{
+accessory_cabin_data : l2h4.mersedes.1632.cabin
+{
+	name: "S22"
+	price: 12160
+	unlock: 0
+	icon: "stock"
+	detail_model: "/vehicle/truck/s22/truck1.pmd"
+	model: "/vehicle/truck/s22/truck1.pmd"
+	lods[]: "/vehicle/truck/s22/truck1.pmd"
+	lods[]: "/vehicle/truck/s22/truck1.pmd"
+	collision: "/vehicle/truck/s22/truck1.pmc"
+	variant: cabin_a
+	#variant_uk: cabin_a_uk
+	look: default
+	#wiper_model: "/vehicle/truck/mersedes_1632/wipers.pmd"
+	#wiper_anim: "/vehicle/truck/mersedes_1632/wipers.pma"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/accessory/doorhndl/shape1.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/accessory/mirror/shape2.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/paint_job/color2.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/head_light/xenon.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/chassis/4x2s22.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/interior/standard_uk.sii"
+
+}
+}

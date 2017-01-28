@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.cyanide
+{
+	name: "Towary drzewne (ST5)"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 18000.0
+
+	fragility: 0.5
+	
+	price_coef: 2.200
+
+	adr_class: 6
+}
+

@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape6.mersedes.1632.far
+{
+	name: "Additional lamps bottom + 2 strokes chrom"
+	price: 2100
+	unlock: 18
+	icon: "stock"
+	exterior_model: "/vehicle/truck/upgrade/far/far_06.pmd"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : diz01sisltr.mersedes.1632.toyseat_1632
+{
+	name: "Notebook Pro"
+	price: 1996
+	unlock: 0
+	icon: "laptop_chip.sisl_tr"
+   
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/laptop_chip.sisl_tr.pmd"
+}
+}

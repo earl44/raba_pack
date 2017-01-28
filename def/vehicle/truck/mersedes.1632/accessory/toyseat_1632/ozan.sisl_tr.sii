@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_int_data : ozan.mersedes.1632.toyseat_1632
+{
+	name: "Ozan"
+	price: 1500
+    
+     unlock: 0
+	icon: "ozan.sisl_tr"
+            	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/ozan.sisl_tr.pmd"
+}
+
+}

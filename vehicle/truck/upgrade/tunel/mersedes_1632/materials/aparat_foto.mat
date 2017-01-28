@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.add.env.shadow" {
+	texture[0] : "/vehicle/truck/upgrade/tunel/mersedes_1632/textures/aparat_foto.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.2 , 0.2 , 0.2 }
+	env_factor : { 0.03 , 0.03 , 0.03 }
+	shininess : 35
+	specular : { 0.5 , 0.5 , 0.5 }
+}

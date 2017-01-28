@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : calc1.sisl.mersdes.1632.toystand_5
+{
+	name: "Tabletop Calculator"
+	icon: "calc1.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/calc1.sisl_tr.pmd"
+	look: default
+	price: 20
+	unlock: 0
+}
+}

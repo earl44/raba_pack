@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cuprtrucker.sisl.mersdes.1632.toystand_6
+{
+	name: "Mug - Radiotrucker"
+	icon: "cupradiotrucker.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: radiotrucker
+	price: 16
+	unlock: 0
+}
+}

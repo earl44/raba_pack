@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cup_pin3.mersedes.1632.toystand_4
+{
+	name: "Pin Up 3 Coffee Mug"
+	price: 15
+	unlock: 0
+	icon: "cup_pin3.dlc_toys"
+   
+  interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cup_pin3.dlc_toys.pmd"
+}
+}

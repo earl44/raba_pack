@@ -1,0 +1,15 @@
+cargo_data: cargo.sodhydro
+{
+	name: "Kielki (ST6)"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 19000.0
+
+	fragility: 0.5
+	
+	price_coef: 1.785
+
+	adr_class: 8
+}
+

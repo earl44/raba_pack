@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_rim_data : ng1632.fhub
+{
+	name: "Mercedes NG - standard"
+	price: 240
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheelf/mersedes_1632/f_hub_s.pmd"
+	icon: "f_wheel_steel"
+	
+}
+}

@@ -1,0 +1,15 @@
+
+cargo_data: cargo.chemicals
+{
+	name: "Chemikalia w beczkach (ST2)"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 19000.0
+
+	fragility: 0.5
+	
+	price_coef: 1.950
+
+	adr_class: 2
+}
+

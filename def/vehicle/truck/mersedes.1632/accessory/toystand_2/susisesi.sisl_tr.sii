@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : susisesi.sisl.mersdes.1632.toystand_2
+{
+	name: "Water Bottle"
+	icon: "susisesi.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/susisesi.sisl_tr.pmd"
+	price: 2
+	unlock: 0
+}
+}

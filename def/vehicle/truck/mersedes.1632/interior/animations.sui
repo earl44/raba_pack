@@ -1,0 +1,42 @@
+	wiper_anim: "/vehicle/truck/f16int/wipers.pma"
+	wiper_delay[]: 4
+	wiper_delay[]: 2
+	wheel_anim: "/vehicle/truck/f16int/wheel.pma"
+
+	blinker_delay: 0.333
+	blinker_anim: "/vehicle/truck/f16int/blinkhebel.pma"
+	lights_anim: "/vehicle/truck/f16int/abblendschalter.pma"
+	high_beam_anim: "/vehicle/truck/f16int/fernlichtschalter.pma"
+	wiper_stick_anim: "/vehicle/truck/f16int/wischerhebel.pma"
+
+
+	oil_psi_anim: "/vehicle/truck/f16int/oil.pma"
+	oil_psi_anim_max: 120
+
+	water_temp_anim: "/vehicle/truck/f16int/water.pma"
+	water_temp_anim_min: 60
+	water_temp_anim_max: 120
+	
+	tachometer_anim: "/vehicle/truck/f16int/rpm.pma"
+	tachometer_anim_max: 3000
+	
+	speedometer_anim: "/vehicle/truck/f16int/speed.pma"
+	speedometer_anim_min: 0
+	speedometer_anim_max: 140
+
+	air_psi_anim: "/vehicle/truck/f16int/air.pma"
+	air_psi_anim_max: 240
+	
+	fuel_anim: "/vehicle/truck/f16int/fuel.pma"
+      fuel_anim_max: 1.0
+
+
+
+	button_left_blinker: "/vehicle/truck/f16int/left_sign.pma"
+	button_right_blinker: "/vehicle/truck/f16int/right_sign.pma"
+	button_lights: "/vehicle/truck/f16int/abblend_sign.pma"
+	button_high_beam_lights: "/vehicle/truck/f16int/fernlicht_sign.pma"
+	button_battery_warning: "/vehicle/truck/f16int/battery_sign.pma"
+	button_low_fuel: "/vehicle/truck/f16int/fuel_sign.pma"
+	button_parking_brake: "/vehicle/truck/f16int/parking_sign.pma"
+

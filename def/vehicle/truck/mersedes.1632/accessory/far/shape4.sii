@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape4.mersedes.1632.far
+{
+	name: "Additional lamps bottom 2"
+	price: 980
+	unlock: 10
+	icon: "stock"
+	exterior_model: "/vehicle/truck/upgrade/far/far_02.pmd"
+}
+}

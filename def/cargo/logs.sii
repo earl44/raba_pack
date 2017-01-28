@@ -1,0 +1,15 @@
+
+
+cargo_data: cargo.logs
+{
+	name: "Tarcica"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 16000.0
+
+	fragility: 0.0
+	
+	price_coef: 1.258
+}
+

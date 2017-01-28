@@ -1,0 +1,15 @@
+
+cargo_data: cargo.flour
+{
+	name: "@@cn_flour@@"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 20000.0
+	mass[]: 20000.0
+
+	fragility: 0.3
+	
+	price_coef: 1.327
+}
+

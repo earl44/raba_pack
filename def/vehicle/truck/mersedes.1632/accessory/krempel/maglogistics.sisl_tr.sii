@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : maglogistics.sisl.mersedes.1632.krempel
+{
+	name: "Magazines - Transport & Logistics"
+	price: 28
+	unlock: 0
+	icon: "mag-logistics.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toybig/dergiler.sisl_tr.pmd"
+	look: logistics
+}
+}

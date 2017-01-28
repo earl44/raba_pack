@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : horn2.mercedes.1632.horn_l
+{
+	name: "Thunder"
+	price: 990
+	unlock: 10
+	icon: "horn_03_l"
+	exterior_model: "/vehicle/truck/upgrade/horn/horn_03_l.pmd"
+
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : canzero.sisl.mersdes.1632.toystand_2
+{
+	name: "Coca-Cola Zero"
+	icon: "can-cocacolazero.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/sodacan.sisl_tr.pmd"
+	look: zero
+	price: 5
+	unlock: 0
+}
+}

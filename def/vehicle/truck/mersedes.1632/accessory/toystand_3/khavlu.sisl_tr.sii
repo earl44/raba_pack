@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : khavlu.sisl.mersdes.1632.toystand_3
+{
+	name: "Paper Towel"
+	icon: "khavlu.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/khavlu.sisl_tr.pmd"
+	look: default
+	price: 20
+	unlock: 0
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cuplovetea.sisl.mersdes.1632.toystand_5
+{
+	name: "Mug - I <3 Tea"
+	icon: "cuplovetea.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: ilovetea
+	price: 16
+	unlock: 0
+}
+}

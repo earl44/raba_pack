@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_engine_data : om442a.mersedes.1632.engine
+{
+	name: "V8 OM 442A"
+	price: 12040
+	unlock: 0
+	info[]: "354 @@hp@@ (260@@kw@@)"
+	info[]: "1600 @@nm@@"
+	info[]: "1@@dg@@200-1@@dg@@600 @@rpm@@"
+	icon: "engine_01"
+	torque: 1600
+	volume: 13.6
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/interior_1722.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/exterior_1722.sii"
+}
+}

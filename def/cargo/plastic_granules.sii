@@ -1,0 +1,16 @@
+
+
+cargo_data: cargo.plastic
+{
+	name: "Skutery"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 23000.0
+
+	fragility: 0
+	
+	price_coef: 1.269
+
+}
+

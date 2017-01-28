@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : barettr.sisl.mersedes.1632.krempel
+{
+	name: "Safety Helmet"
+	icon: "baret.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/baret_s.sisl_tr.pmd"
+	price: 120
+	unlock: 0
+}
+}

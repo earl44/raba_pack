@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_int_data : gps02.sisl.mersedes.1632.set_lglass
+{
+	name: "Tomtom Trucker Pro 8500"
+	price: 1410     
+	suitable_for[]: "exclusive.mercedes.actros_12.interior"
+	suitable_for[]: "standard.mercedes.actros_12.interior"
+	unlock: 0
+	icon: "tomtom.sisl_tr"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyglass/tomtompro.sisl_tr.pmd"
+}
+}

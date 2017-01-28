@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : kutumendil.sisl.mersdes.1632.toystand_5
+{
+	name: "Tissue Box"
+	icon: "kmendil.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/kmendil.sisl_tr.pmd"
+	look: default
+	price: 10
+	unlock: 0
+}
+}

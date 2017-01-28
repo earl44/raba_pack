@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_int_data : glasses.mersedes.1632.toystand_6
+{
+	name: "Aviator Shades"
+	icon: "aviators.dlc_toys"	
+  
+  interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/glasses.dlc_toys.pmd"
+
+	price: 345
+	unlock: 0
+}
+}

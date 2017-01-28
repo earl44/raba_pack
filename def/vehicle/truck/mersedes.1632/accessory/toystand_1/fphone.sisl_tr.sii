@@ -1,0 +1,12 @@
+SiiNunit
+{
+
+accessory_addon_int_data : fphone.sisl.mersdes.1632.toystand_1
+{
+	name: "Feature Phone"
+	icon: "fphone.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/fphone.sisl_tr.pmd"
+	price: 120
+	unlock: 0
+}
+}

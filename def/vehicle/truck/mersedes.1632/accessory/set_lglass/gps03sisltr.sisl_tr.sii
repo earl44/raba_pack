@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_int_data : gps03sisltr.mersedes.1632.set_lglass
+{
+	name: "Tomtom Trucker Pro 8500"
+	price: 1410     
+     suitable_for[]: "exclusive_uk.mersedes.1632_09.interior"
+     suitable_for[]: "highroof_uk.exclusive.mersedes.1632_09.interior"
+     suitable_for[]: "highroof_uk.mersedes.1632_09.interior"
+     suitable_for[]: "lowroof_uk.exclusive.mersedes.1632_09.interior"
+     suitable_for[]: "lowroof_uk.mersedes.1632_09.interior"
+     suitable_for[]: "standard_uk.mersedes.1632_09.interior"
+     unlock: 0
+	icon: "gps.dlc_toys"
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyglass/tomtomprouk.sisl_tr.pmd"
+}
+}

@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_engine_data : om_404.mersedes.1632.engine
+{
+	name: "OM 404 Natural Aspiration V12"
+	price: 9500
+	unlock: 0
+	info[]: "378 @@hp@@ (282@@kw@@)"
+	info[]: "1236 Nm"
+	info[]: "1600 rpm"
+	icon: "engine_01"
+	torque: 1236
+	volume:	13.95
+	
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/interior_om403.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/exterior_om403.sii"
+}
+}

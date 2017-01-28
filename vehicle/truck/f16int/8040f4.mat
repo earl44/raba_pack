@@ -1,0 +1,8 @@
+material : "eut.dif_lum.fx" {
+	texture[0] : "details.tobj"
+	ambient : { 1 , 1 , 1 }
+	diffuse : { 1 , 1 , 1 }
+	specular : { 0.15 , 0.15 , 0.15 }
+	shininess : 64
+	tint : { 1 , 1 , 1 }
+}

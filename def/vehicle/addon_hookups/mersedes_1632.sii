@@ -1,0 +1,29 @@
+accessory_hookup_data : m_16321.addon_hookup
+{
+	name: "1632 Lumen Chrom"
+	icon: "light_rounded_chrome"	
+	model: "/vehicle/truck/upgrade/light/light_rounded_chrome.pmd"
+	suitable_for[]: "sp"
+	price: 1020
+	unlock: 7
+}
+accessory_hookup_data : m_16322.addon_hookup
+{
+	name: "1632 Lumen Mark II"
+	icon: "light_thin_plastic"
+	model: "/vehicle/truck/upgrade/light/light_thin_plastic.pmd"
+	suitable_for[]: "sp"
+	price: 780
+	unlock: 3
+}
+accessory_hookup_data : m_16323.addon_hookup
+{
+	name: "1632 Lumen Mark I"
+	icon: "light_square_plastic"
+	model: "/vehicle/truck/upgrade/light/light_square_plastic.pmd"
+	suitable_for[]: "sp"
+	suitable_for[]: "f_grill"
+	price: 870
+	unlock: 1
+}
+

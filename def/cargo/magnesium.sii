@@ -1,0 +1,15 @@
+cargo_data: cargo.magnesium
+{
+	name: "Materialy PCV (ST4)"
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 22000.0
+
+	fragility: 1.0
+	
+	price_coef: 1.785
+	
+	adr_class: 4
+
+}
+

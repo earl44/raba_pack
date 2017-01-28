@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape2.mersedes.1632.zderzak
+{
+	name: "Bumper painted"
+	price: 1380
+	unlock: 10
+	icon: "bumper_painted"
+	exterior_model: "/vehicle/truck/upgrade/zderzak/mersedes_1632/zderzak_02.pmd"
+}
+}

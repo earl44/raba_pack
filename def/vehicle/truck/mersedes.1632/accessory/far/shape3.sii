@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape3.mersedes.1632.far
+{
+	name: "marker lights chrome"
+	price: 970
+	unlock: 13
+	icon: "stock"
+	exterior_model: "/vehicle/truck/upgrade/far/far_04.pmd"
+}
+}

@@ -1,0 +1,69 @@
+SiiNunit
+{
+accessory_addon_int_data : bbayrakctr.sisl.mersedes.1632.set_glass
+{
+	name: "Big Flag (Customizable)"
+	price: 30
+	unlock: 0
+	icon: "bbayrak.sisl_tr"
+  look: custom
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toyglass/bbayrak.sisl_tr.pmd"
+	coll:	 "/vehicle/truck/upgrade/interior_decors/toyglass/bbayrak.sisl_tr.pmc"
+	data[]: .bbayraksis.sisl.phys_data
+}
+physics_toy_data : .bbayraksis.sisl.phys_data
+{
+	phys_model:      "/vehicle/truck/upgrade/interior_decors/toyglass/bbayrak_puskul.sisl_tr.pmd"
+	phys_model_coll:      "/vehicle/truck/upgrade/interior_decors/toyglass/bbayrak_puskul.sisl_tr.pmc"
+	phys_model_look: default
+
+	toy_type:		"TT_joint_free"			# TT_rope, TT_double_rope, TT_joint
+	toy_mass:		0.001		# toy mass
+	linear_damping:		0.95			# damping of swinging of toy
+	linear_stiffness: 	0.01				# rope - influences rope springing
+	angular_amplitude:	(80.0, 80.0, 80.0)	
+	rope_length: 0.06
+  # locator_hook_offset:	(0.0f, -0.008f, 0.0f)		# offset of connection point on hook against toy locator
+
+	#locator_hook_offset:	( 0.00991f, -0.06425f, -0.1300f )
+	locator_hook_offset:	( -0.00991f, -0.13000f, 0.06425f )
+	instance_offset[]:	( -0.00572, 0.00087, 0.00076 )
+	instance_offset[]:	( -0.01856, 0.00129, 0.00359 )
+	instance_offset[]:  (-0.02833, 0.00185, 0.00733)
+	instance_offset[]:  (-0.04143, 0.00343, 0.01281)
+	instance_offset[]:  (-0.05312, 0.00720, 0.02321)
+	instance_offset[]:  (-0.05312, 0.00720, 0.02321)
+	instance_offset[]:  (-0.06750, 0.01924, 0.04458)
+	instance_offset[]:  (-0.08252, 0.03812, 0.06923)
+	instance_offset[]:  (-0.08252, 0.03812, 0.06923)
+	instance_offset[]:  (-0.09480, 0.05908, 0.09086)
+	instance_offset[]:  (-0.10766, 0.08542, 0.10809)
+	instance_offset[]:  (-0.11766, 0.11509, 0.11875)
+	instance_offset[]:  (-0.12721, 0.14246, 0.12499)
+	instance_offset[]:  (-0.13985, 0.17865, 0.13210)
+	instance_offset[]:  (-0.15909, 0.23100, 0.13928)
+	instance_offset[]:  (-0.17631, 0.27903, 0.14598)
+	instance_offset[]:  (-0.20317, 0.35919, 0.15409)
+	instance_offset[]:  (-0.22595, 0.42783, 0.15799)
+	instance_offset[]:  (-0.26295, 0.55054, 0.15707)
+	instance_offset[]:  (0.00763, 0.00088, 0.00000)
+	instance_offset[]:  (0.01335, 0.00087, 0.00073)
+	instance_offset[]:  (0.02620, 0.00129, 0.00353)
+	instance_offset[]:  (0.03599, 0.00185, 0.00725)
+	instance_offset[]:  (0.04650, 0.00342, 0.01271)
+	instance_offset[]:  (0.05903, 0.00720, 0.02307)
+	instance_offset[]:  (0.07686, 0.01924, 0.04441)
+	instance_offset[]:  (0.09112, 0.03811, 0.06901)
+	instance_offset[]:  (0.10318, 0.05907, 0.09062)
+	instance_offset[]:  (0.11519, 0.08541, 0.10782)
+	instance_offset[]:  (0.12524, 0.11508, 0.11845)
+	instance_offset[]:  (0.13483, 0.14245, 0.12467)
+	instance_offset[]:  (0.16686, 0.23099, 0.13888)
+	instance_offset[]:  (0.18449, 0.27902, 0.14554)
+	instance_offset[]:  (0.21136, 0.35917, 0.15359)
+	instance_offset[]:  (0.23434, 0.42781, 0.15743)
+	instance_offset[]:  (0.27137, 0.55052, 0.15643)
+	# definitions valid only for toys with rope
+  #rope_material: 		"/material/ropes/rope_white.sisl_tr.mat"
+}
+}

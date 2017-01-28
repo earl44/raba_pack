@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape1.mersedes.1632.mirror
+{
+	name: "@@Mirror@@ 832"
+	price: 1200
+	unlock: 1
+	icon: "stock"
+	exterior_model: "/vehicle/truck/upgrade/mirror/mersedes_1632/mirror_ext02.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/mersedes_1632/mirror_02_int.pmd"
+
+}
+}

@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_engine_data : s750.mersedes.1632.engine
+{
+	name: "Scania V8 750"
+	price: 12040
+	unlock: 0
+	info[]: "750 @@hp@@ (551@@kw@@)"
+	info[]: "3@@dg@@550 @@nm@@"
+	info[]: "1@@dg@@050-1@@dg@@400 @@rpm@@"
+	icon: "engine_01"
+	torque: 3450
+	volume: 13.6
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/interior_v8.sii"
+	defaults[]: "/def/vehicle/truck/mersedes.1632/sound/exterior_v8.sii"
+}
+}

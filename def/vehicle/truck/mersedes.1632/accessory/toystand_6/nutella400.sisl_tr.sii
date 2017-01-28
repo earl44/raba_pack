@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : nutella400.sisl.mersdes.1632.toystand_6
+{
+	name: "Nutella (400g)"
+	price: 10
+	unlock: 0
+	icon: "nutella.sisl_tr"
+  look: default
+	interior_model:	"/vehicle/truck/upgrade/interior_decors/toystand/nutella.sisl_tr.pmd"
+}
+}

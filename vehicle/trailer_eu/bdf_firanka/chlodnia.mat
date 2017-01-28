@@ -1,0 +1,10 @@
+material : "eut2.dif.spec" {
+	texture[0] : "/vehicle/trailer_eu/bdf_firanka/chlodnia.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.431373 , 0.431373 , 0.431373 }
+	specular : { 0.129412 , 0.129412 , 0.129412 }
+	shininess : 40
+	add_ambient : 0
+	aux[1] : { 0 , 0 }
+
+}

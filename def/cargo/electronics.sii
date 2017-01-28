@@ -1,0 +1,15 @@
+
+
+
+cargo_data: cargo.electronics
+{
+	name: "@@cn_electronics@@"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 8000.0
+	mass[]: 8000.0
+	
+	price_coef: 1.460
+}
+

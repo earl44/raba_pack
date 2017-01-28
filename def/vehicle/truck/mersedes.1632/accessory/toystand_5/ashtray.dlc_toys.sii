@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : kullu.mersedes.1632.toystand_5
+{
+	name: "Ashtray"
+	price: 10
+	unlock: 0
+	icon: "ashtray"
+   
+  interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/kulluk.dlc_toys.pmd"
+}
+}

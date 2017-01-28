@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_int_data : ilhami.mersedes.1632.toyseat_1632
+{
+	name: "İlhami"
+	price: 1500
+      unlock: 0
+	icon: "ilhami.sisl_tr"
+            	interior_model: "/vehicle/truck/upgrade/interior_decors/toyseat/ilhami.sisl_tr.pmd"
+}
+}

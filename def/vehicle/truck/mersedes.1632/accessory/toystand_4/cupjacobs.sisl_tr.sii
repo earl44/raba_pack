@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : cupjacobs.sisl.mersdes.1632.toystand_4
+{
+	name: "Mug - Jacobs"
+	icon: "cupjacobs.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/cups.sisl_tr.pmd"
+	look: jacobs
+	price: 16
+	unlock: 0
+}
+}

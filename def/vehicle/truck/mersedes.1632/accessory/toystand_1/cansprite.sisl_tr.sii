@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : cansprite.sisl.mersdes.1632.toystand_1
+{
+	name: "Sprite"
+	icon: "can-sprite.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/sodacan.sisl_tr.pmd"
+	look: sprite
+	price: 5
+	unlock: 0
+}
+}

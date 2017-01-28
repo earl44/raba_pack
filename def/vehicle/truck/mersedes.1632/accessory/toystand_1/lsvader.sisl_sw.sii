@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_int_data : lsvader.sisl.mersdes.1632.toystand_1
+{
+	name: "Lightsaber - Darth Vader"
+	icon: "ls_vader.sisl_sw"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/ls_vader.sisl_sw.pmd"
+	look: default
+	price: 90
+	unlock: 0
+}
+}

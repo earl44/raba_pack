@@ -1,0 +1,15 @@
+
+
+cargo_data: cargo.ore
+{
+	name: "Odziez"
+	
+	vehicles[]: trailer.krone.profiliner
+
+	mass[]: 23000.0
+
+	fragility: 0
+	
+	price_coef: 1.410
+}
+

@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : calc2.sisl.mersdes.1632.toystand_5
+{
+	name: "Scientific Calculator"
+	icon: "calc2.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/calc2.sisl_tr.pmd"
+	look: default
+	price: 40
+	unlock: 0
+}
+}

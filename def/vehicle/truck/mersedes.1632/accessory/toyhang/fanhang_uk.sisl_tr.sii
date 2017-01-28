@@ -1,0 +1,27 @@
+SiiNunit
+{
+accessory_addon_int_data : fanhanguk.sisl.mersedes.1632.toyhang
+{
+	name: "Roof Fan (UK)"
+	icon: "fan.sisl_tr"
+	price: 125
+	unlock: 0
+	interior_model:  "/vehicle/truck/upgrade/interior_decors/toyhang/fanhang_b.sisl_tr.pmd"
+	coll:	"/vehicle/truck/upgrade/interior_decors/toyhang/fanhang.sisl_tr.pmc"
+	data[]: .fanhanguk.sisl.phys_data
+}
+physics_toy_data : .fanhanguk.sisl.phys_data
+{
+	phys_model:		"/vehicle/truck/upgrade/interior_decors/toyhang/fanhang.sisl_tr.pmd"   
+	phys_model_coll:	"/vehicle/truck/upgrade/interior_decors/toyhang/fanhang.sisl_tr.pmc"
+	phys_model_look: default
+	phys_model_variant: uk
+	toy_type:		"TT_joint"		# TT_rope, TT_double_rope, TT_joint
+	toy_mass:	 	0.01		# toy mass
+	locator_hook_offset:	(0.00, -0.07842, 0.01515)	# offset of connection point on hook against toy locator
+	# definitions applied only to toys with joint
+		angular_stiffness:	(100.0, 100.0)		# joint - together with angular damping influences frequency and amplitude of oscilation
+	angular_damping:	(3.0, 3.0)		# joint - together with angular stiffness influences frequency and amplitude of oscilation
+	angular_amplitude:	(20.0, 0.0, 20.0)	
+}
+}

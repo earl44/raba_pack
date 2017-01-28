@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+accessory_addon_int_data : coffeemake.sisl.mersdes.1632.toystand_1
+{
+	name: "Coffee Maker"
+	icon: "coffeemaker.sisl_tr"	
+	interior_model: "/vehicle/truck/upgrade/interior_decors/toystand/coffeemaker.sisl_tr.pmd"
+	look: default
+	price: 140
+	unlock: 0
+}
+}

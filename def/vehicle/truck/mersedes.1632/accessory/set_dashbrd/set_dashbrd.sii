@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : set.dashbrd.mersedes.1632.set_dashbrd
+{
+	name: "Dashboard"
+	price: 100
+	unlock: 0
+	icon: "dashbrd_2.dlc_toys"
+   
+	interior_model: "/vehicle/truck/upgrade/set_dashbrd/mersedes_1632/set_dashbrd.pmd"
+	exterior_model: "/vehicle/truck/upgrade/set_dashbrd/mersedes_1632/set_dashbrd.pmd"
+}
+}

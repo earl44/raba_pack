@@ -1,0 +1,9 @@
+material : "eut2.dif" {
+	texture[0] : "/vehicle/trailer_eu/bdf_firanka/textures/trailer_base.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[1] : { 0.0 , 0.0 }
+	diffuse : { 0.47451 , 0.47451 , 0.47451 }
+	shininess : 100
+	specular : { 0.0 , 0.0 , 0.0 }
+}
