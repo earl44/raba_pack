@@ -1,9 +1,9 @@
 # raba_pack
 Euro Truck Simulator 2 Mod
 
-Rába 832 
-Rába S22 
-Ifa W50 
+- Rába 832 
+- Rába S22 
+- Ifa W50 
 
 Version 0.1
 
